@@ -1,0 +1,11 @@
+print("por favor entre com seus dados")
+
+name = input('informe seu nome: ')
+
+job = input('informe seu cargo: ')
+
+IDF = input('informe seu IDF: ')
+
+print(name)
+print(job)
+print(IDF)
